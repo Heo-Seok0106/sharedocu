@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8">
+	<title>HTML Tables</title>
+</head>
+
+<body>
+  
+  <h1>이 력 서<h1>
+    
+    <h3>1. 기본정보<h3>
+  
+	<table style="width:100%">
+          
+          <style>
+
+    table, th, td { border: 1px solid black; border-collapse: collapse }
+
+</style>
+			<th>성 명</th>
+			<th>허 석</th>		
+      <th>영 문</th>	
+      <th>Heo Seok</th>	
+		</tr>
+		<tr>
+			<td>연 락 처</td>
+			<td>010-1234-5678</td>		
+          <td>생년월일</td>
+			<td>1999.01.06</td>	
+		</tr>
+		<tr>
+			<td>주 소</td>
+			<td>부산광역시 부산진구 가야동 467 동의대학교</td>		
+		</tr>
+	</table>
+
+      <h3>2. 학력사항<h3>
+        
+        <table style="width:100%">
+          
+          <style>
+
+    table, th, td { border: 1px solid black; border-collapse: collapse }
+
+</style>
+			<th>기 간</th>
+			<th>학 교 명</th>		
+      <th>학 과</th>	
+      <th>비 고</th>	
+		</tr>
+		<tr>
+			<td>2007~2011</td>
+			<td>서울경인초등학교</td>		
+          <td>없음</td>
+			<td>졸업</td>	
+		</tr>
+		<tr>
+			<td>2012~2014</td>
+			<td>서울양정중학교</td>	
+          <td>없음</td>
+			<td>졸업</td>
+		</tr>
+        <tr>
+			<td>2015~2018</td>
+			<td>서울강서고등학교</td>		
+          <td>없음</td>
+			<td>졸업</td>	
+		</tr>
+        <tr>
+			<td>2024~2027</td>
+			<td>동의대학교</td>		
+          <td>응용소프트웨어공학과</td>
+			<td>졸업</td>	
+		</tr>
+	</table>
+        
+        <h3>3. 자격증 및 특기사항<h3>
+          
+          <table style="width:100%">
+          
+          <style>
+
+    table, th, td { border: 1px solid black; border-collapse: collapse }
+
+</style>
+			<th>취득년월</th>
+			<th>자격증 및 특기사항</th>		
+      <th>발령청</th>	
+		</tr>
+		<tr>
+			<td>2025.12</td>
+			<td>SW 코딩자격</td>		
+          <td>한국생산성본부(KPC)</td>
+		</tr>
+		<tr>
+			<td>2026.06</td>
+			<td>AICE</td>	
+          <td>KT & 한국경제신문</td>
+		</tr>
+        <tr>
+			<td>2026.12</td>
+			<td>COS</td>		
+          <td>YBM</td>
+		</tr>
+        <tr>
+			<td>2027.06</td>
+			<td>정보처리기사</td>		
+          <td>국가공인자격증</td>
+		</tr>
+	</table>
+      
+      <h3>4. 경력사항<h3>
+        
+        <table style="width:100%">
+          
+          <style>
+
+    table, th, td { border: 1px solid black; border-collapse: collapse }
+
+</style>
+			<th>근무기간</th>
+			<th>내 용</th>		
+      <th>근무처</th>	
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>		
+          <td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>	
+          <td></td>
+		</tr>
+        <tr>
+			<td></td>
+			<td></td>		
+          <td></td>
+		</tr>
+        <tr>
+			<td></td>
+			<td></td>		
+          <td></td>
+		</tr>
+	</table>
+
+</body>
+
+</html>
